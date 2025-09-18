@@ -1,0 +1,7 @@
+print("how to make sandwich")
+print("get bread, butter, and knife")
+print("split the bread")
+print("use knife to get butter")
+print("use knife to spread butter")
+print("put the other slice of bread on top")
+print("Sandwich")
