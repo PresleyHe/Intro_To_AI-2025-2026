@@ -41,6 +41,9 @@ else:
 # Activity 4: Simple Loop (Repetition Practice)
 # Task for Students:
 # Write a Python algorithm that prints your name 3 times using a loop.
+Name = input("Your Name:")
+for i in range(3):
+    print(Name)
 
 # Activity 5: Mini Challenge – Even or Odd Game
 # Task for Students:
